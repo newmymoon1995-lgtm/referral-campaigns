@@ -13,6 +13,11 @@ Educational guide to banking platform referral programs, sign-up bonuses, and pr
 **Platform Overview:**
 Revolut is a digital banking platform offering multi-currency accounts, cards, and financial services with promotional bonuses for new users.
 
+**🔗 Quick Links:**
+- **Official Website:** https://revolut.com/
+- **Referral Link:** https://revolut.com/referral/?referral-code=lilkodn!AUG1-26-AR-WNT-H2&geo-redirect
+- **Referral Code:** `lilkodn`
+
 **Bonus Details:**
 - **Your Reward:** Up to €60 total
 - **Referrer Reward:** €20-€40
@@ -48,6 +53,11 @@ Revolut is a digital banking platform offering multi-currency accounts, cards, a
 **Platform Overview:**
 Pesa is an international digital wallet similar to Wise and Revolut, offering competitive exchange rates and multi-currency transfers.
 
+**🔗 Quick Links:**
+- **Official Website:** https://pesapeer.onelink.me/UDUJ
+- **Referral Link:** https://pesapeer.onelink.me/UDUJ?af_xp=referral&pid=User_invite&c=referral_campaign&af_dp=pesapeer%3A%2F%2F&deep_link_value=referral&deep_link_sub1=lilko&utm_source=referral&utm_medium=user
+- **Invite Code:** `lilko`
+
 **Bonus Details:**
 - **Your Reward:** €10
 - **Referrer Reward:** €10
@@ -55,7 +65,7 @@ Pesa is an international digital wallet similar to Wise and Revolut, offering co
 - **Time Required:** ~10 minutes
 
 **How It Works:**
-1. Sign up using referral link
+1. Sign up using referral link above
 2. Complete identity verification (KYC)
 3. Link your Wise or Revolut account
 4. Deposit €51 into your Pesa account
@@ -66,8 +76,6 @@ Pesa is an international digital wallet similar to Wise and Revolut, offering co
 - No transfer fees for international transfers
 - Competitive exchange rates
 - Available in multiple countries
-
-**Invite Code:** `lilko`
 
 **Educational Value:**
 - Understand international money transfer systems
@@ -204,7 +212,7 @@ Myfin offers virtual card services with promotional bonuses for new users who co
 
 ---
 
-**Last Updated:** 2026-09-15
+**Last Updated:** 2026-09-16
 **Category:** Banking & Financial Services
 **Difficulty Level:** Beginner to Intermediate
 

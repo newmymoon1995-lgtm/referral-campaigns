@@ -1,10 +1,26 @@
 # 🎁 Referral Programs & Bonus Opportunities
 
+**🚀 [QUICK START →](QUICK-START.md)** | **🔍 [Search Tool →](search.py)** | **📚 [Guides →](#-featured-categories)**
+
 Comprehensive guide to legitimate referral programs, bonus offers, and promotional opportunities across fintech, banking, investing, apps, and travel sectors.
 
 ## ⚠️ Important Disclaimer
 
 **This repository provides educational information about referral programs and bonus opportunities. Always perform your own research (DYOR) before participating in any financial program. The author is not affiliated with most of these platforms and shares information for educational purposes only.**
+
+## 🎯 TOP 3 RECOMMENDED PROGRAMS
+
+### 🥇 Ramp Network - $42 USDC Bonus
+**High reward, relatively low deposit, instant withdrawal**
+**[→ Full Guide](fintech/README.md#ramp-network---usdc-bonus-program)**
+
+### 🥈 Deblock - €15 Bonus  
+**Very low deposit, simple process, quick withdrawal**
+**[→ Full Guide](fintech/README.md#deblock---digital-wallet-bonus)**
+
+### 🥉 Omio - €10 Travel Bonus
+**No deposit required, useful service, quick completion**
+**[→ Full Guide](travel/README.md#omio---travel-booking-platform-bonus)**
 
 ## 📋 What This Repository Contains
 
@@ -13,6 +29,27 @@ Comprehensive guide to legitimate referral programs, bonus offers, and promotion
 - **Step-by-step instructions** for qualifying for rewards
 - **Risk assessments** and requirements analysis
 - **Platform comparisons** and user experiences
+- **Quick search tool** for finding the right program
+- **Financial literacy** and crypto basics guides
+
+## 🔍 QUICK SEARCH
+
+### By Bonus Amount
+- **Highest Bonus:** [Crypto4me - €30-€180](investing/README.md#crypto4me---crypto-trading-rewards)
+- **Easiest Bonus:** [Deblock - €15](fintech/README.md#deblock---digital-wallet-bonus) (€5 deposit)
+- **Fastest Bonus:** [Omio - €10](travel/README.md#omio---travel-booking-platform-bonus) (15 minutes)
+
+### By Category
+- **💰 Fintech:** [Fintech Programs](fintech/README.md)
+- **🏦 Banking:** [Banking Programs](banking/README.md)
+- **📈 Investing:** [Investing Programs](investing/README.md)
+- **📱 Apps:** [App Programs](apps/README.md)
+- **✈️ Travel:** [Travel Programs](travel/README.md)
+
+### By Difficulty
+- **Beginner:** [Pesa Wallet](banking/README.md#pesa-wallet---international-money-transfer-bonus)
+- **Intermediate:** [Ramp Network](fintech/README.md#ramp-network---usdc-bonus-program)
+- **Advanced:** [Crypto4me](investing/README.md#crypto4me---crypto-trading-rewards)
 
 ## 🏆 Featured Categories
 
@@ -34,6 +71,7 @@ Comprehensive guide to legitimate referral programs, bonus offers, and promotion
 - Outlier - AI task completion platform
 - Naga - Trading platform bonuses
 - Tiltrips - Gaming promotions
+- Oobit - Crypto debit card rewards
 - Bitget Wallet - Web3 wallet rewards
 - Various utility apps with bonus programs
 
@@ -61,11 +99,11 @@ Comprehensive guide to legitimate referral programs, bonus offers, and promotion
 ## 📊 Current Highlighted Offers
 
 ### 🔥 Top Opportunities
-- **Ramp Network**: $42 USDC bonus with $52 deposit
-- **Outlier**: Up to $420 for expert participation
-- **Bybit EU**: Up to €98 welcome rewards
-- **Revolut**: Up to €60 total rewards
-- **Moomoo**: $100 trading coupons + stock rewards
+- **Ramp Network**: $42 USDC bonus with $52 deposit (Code: 8P84M0)
+- **Outlier**: Up to $420 for expert participation (Multiple project links)
+- **Bybit EU**: Up to €98 welcome rewards (Code: KVV9JJG)
+- **Revolut**: Up to €60 total rewards (Code: lilkodn)
+- **Oobit**: €433 fee-free spending + 10% cashback (Code: GJJW34)
 
 ## ⚡ Quick Start Guide
 
@@ -216,8 +254,10 @@ This repository serves as:
 
 ---
 
-**Last Updated:** 2026-09-15
+**Last Updated:** 2026-09-16
 **Maintainer:** @newmymoon1995-lgtm
 **License:** MIT License - See LICENSE file for details
+
+**Recent Updates:** Added direct referral links and invite codes from ReferTree profile for easier access to all programs.
 
 **Remember:** Always DYOR (Do Your Own Research) and never invest more than you can afford to lose.

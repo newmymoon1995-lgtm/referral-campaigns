@@ -13,6 +13,11 @@ Educational guide to investment platform referral programs, trading bonuses, and
 **Platform Overview:**
 Bybit is a cryptocurrency exchange platform offering trading services with promotional welcome bonuses for European users.
 
+**🔗 Quick Links:**
+- **Official Website:** https://www.bybit.eu/
+- **Referral Link:** https://www.bybit.eu/invite?ref=KVV9JJG
+- **Referral Code:** `KVV9JJG`
+
 **Bonus Details:**
 - **Your Reward:** Up to €98 in welcome rewards
 - **Referrer Reward:** €25
@@ -22,7 +27,7 @@ Bybit is a cryptocurrency exchange platform offering trading services with promo
 **How to Claim Up to €98 Rewards:**
 
 **Step-by-Step Process:**
-1. Sign up using the referral link
+1. Sign up using the referral link above
 2. Complete KYC verification
 3. Apply for the Bybit Card before first deposit
 4. Go to "My Rewards" and join every available campaign:
@@ -46,8 +51,6 @@ Bybit is a cryptocurrency exchange platform offering trading services with promo
 - ⚠️ Total reward may vary by account
 - ⚠️ For Starter Rewards, buying ~€1 worth of BTC and selling usually suffices
 - ⚠️ EU geographic restriction strictly enforced
-
-**Referral Code:** `KVV9JJG`
 
 **Educational Value:**
 - Learn about cryptocurrency exchange operations
@@ -291,7 +294,7 @@ Crypto4me offers tiered trading rewards based on trading volume achievement with
 
 ---
 
-**Last Updated:** 2026-09-15
+**Last Updated:** 2026-09-16
 **Category:** Investing & Trading
 **Difficulty Level:** Advanced
 

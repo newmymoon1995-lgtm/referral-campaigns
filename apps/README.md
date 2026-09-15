@@ -13,6 +13,12 @@ Educational guide to mobile app and service referral programs, bonus offers, and
 **Platform Overview:**
 Outlier is an AI training platform that pays users to complete various tasks like data annotation, content evaluation, and AI model training activities.
 
+**🔗 Quick Links:**
+- **Official Website:** https://app.outlier.ai/
+- **Project Valkyrie ($420):** https://app.outlier.ai/expert/referrals/link/bNEesSscj7IFI0owpV03IAvroe0
+- **Project Odysseus ($252):** https://app.outlier.ai/expert/referrals/link/sEI17qAk-Sa98Z7A7LxApDby1Vc
+- **Project Aether ($42):** https://app.outlier.ai/expert/referrals/link/EZIOAaRRLS6KmEcrvkDjAHIuX94
+
 **Bonus Details:**
 - **Your Reward:** Up to $420 depending on project
 - **Referrer Reward:** Matching amounts ($420, $252, or $42)
@@ -25,19 +31,22 @@ Outlier is an AI training platform that pays users to complete various tasks lik
 - Target: US, Canadian, or UK cardiologists (attendings, fellows, advanced residents)
 - Task: Medical expertise evaluation
 - Requirements: Professional medical credentials
+- **Referral Link:** https://app.outlier.ai/expert/referrals/link/bNEesSscj7IFI0owpV03IAvroe0
 
 **Project Odysseus ($252):**
 - Target: US-based personal finance experts (CFP, financial advisors, tax preparers) or lawyers
 - Task: Financial/legal expertise evaluation
 - Requirements: Professional credentials in relevant field
+- **Referral Link:** https://app.outlier.ai/expert/referrals/link/sEI17qAk-Sa98Z7A7LxApDby1Vc
 
 **Project Aether ($42):**
 - Target: Native speakers of Korean, German, Bangla, Chinese, Italian, Spanish, Hindi, or French
 - Task: Audio tasks requiring English reading/writing
 - Requirements: Working computer audio, no pro hardware needed
+- **Referral Link:** https://app.outlier.ai/expert/referrals/link/EZIOAaRRLS6KmEcrvkDjAHIuX94
 
 **How It Works:**
-1. Sign up using project-specific referral link
+1. Sign up using project-specific referral link above
 2. Complete identity verification (Persona) via mobile device
 3. Complete project onboarding
 4. Perform minimum required tasks/hours
@@ -54,6 +63,11 @@ Outlier is an AI training platform that pays users to complete various tasks lik
 **Platform Overview:**
 Naga is a trading and investment platform offering promotional bonuses for new users who complete specific actions.
 
+**🔗 Quick Links:**
+- **Official Website:** https://account.naga.com/
+- **Referral Link:** https://account.naga.com?refcode=uthgtq
+- **Referral Code:** `uthgtq`
+
 **Bonus Details:**
 - **Your Reward:** $100 in free stock
 - **Referrer Reward:** $100
@@ -61,7 +75,7 @@ Naga is a trading and investment platform offering promotional bonuses for new u
 - **Referral Limit:** Up to 10 referrals (refreshes every 15 days)
 
 **How It Works:**
-1. Sign up and finish verification
+1. Sign up and finish verification using referral link
 2. Deposit $101
 3. Receive free stock (can sell and withdraw rewards + deposit)
 4. Maximum 10 referrals per camping period
@@ -78,6 +92,11 @@ Naga is a trading and investment platform offering promotional bonuses for new u
 **Platform Overview:**
 Tiltrips is a gaming platform offering a sign-up promotion where users get a free pack with specific conditions for withdrawal.
 
+**🔗 Quick Links:**
+- **Official Website:** https://tiltrips.com/
+- **Referral Link:** https://tiltrips.com/r/GY5T7V5O/
+- **Promo Code:** `GY5T7V5O`
+
 **Bonus Details:**
 - **Your Reward:** Free $10 pack
 - **Referrer Reward:** $10
@@ -85,7 +104,7 @@ Tiltrips is a gaming platform offering a sign-up promotion where users get a fre
 - **Age Requirement:** 18+
 
 **How It Works:**
-1. Download the app or visit the website
+1. Download the app or visit the website using referral link
 2. Use promo code: `GY5T7V5O`
 3. Get free $10 pack
 4. **The Catch:** To unlock withdrawals or ship items, deposit $10 and buy another pack
@@ -127,6 +146,40 @@ Ripz is a platform for trading, exchanging, and buying/selling Pokémon cards wi
 - Experience peer-to-peer marketplaces
 - Study gaming economy mechanics
 
+### Oobit - Crypto Debit Card Rewards
+
+**Platform Overview:**
+Oobit is a cryptocurrency platform offering a debit card with cashback rewards and promotional bonuses for new users.
+
+**🔗 Quick Links:**
+- **Official Website:** https://oobit.com/
+- **Invite Code:** `GJJW34`
+
+**Bonus Details:**
+- **Your Reward:** €433 fee-free spending + 10% cashback
+- **Referrer Reward:** $43 + €10 additional bonus
+- **Required Spending:** €433 for fee-free tier, €180 minimum spending
+- **Required Action:** Order free debit card and complete verification
+
+**How It Works:**
+1. Sign up and verify account using invite code: `GJJW34`
+2. Order your free debit card
+3. Spend €433 fee-free with 10% cashback
+4. Spend €180 minimum (buy gift cards, crypto, or products)
+5. Receive €10 additional reward from referrer
+
+**Key Features:**
+- Free debit card with ordering
+- 10% cashback on spending
+- Fee-free spending up to €433
+- Multiple spending options (gift cards, crypto, retail)
+
+**Educational Value:**
+- Learn about crypto debit card systems
+- Understand cashback reward structures
+- Experience digital payment integration
+- Study crypto-to-fiat conversion mechanics
+
 ### Whatnot - Shopping Platform Credits
 
 **Platform Overview:**
@@ -158,6 +211,7 @@ Whatnot is a live shopping platform offering mystery credit bonuses for first-ti
 | Outlier | $42-$420 | Professional credentials | Varies by project | Professional requirements |
 | Naga | $100 stock | $101 deposit | 15-day cycles | 18+ |
 | Tiltrips | $10 pack | $10 deposit | Immediate | 18+, Worldwide |
+| Oobit | €433 + 10% cashback | €180 spending | Immediate | Varies |
 | Ripz | $10 | Open pack + add friends | Flexible | Varies |
 | Whatnot | €10-€200 | First purchase | Immediate | Varies by region |
 
@@ -258,7 +312,7 @@ Whatnot is a live shopping platform offering mystery credit bonuses for first-ti
 
 ---
 
-**Last Updated:** 2026-09-15
+**Last Updated:** 2026-09-16
 **Category:** Apps & Services
 **Difficulty Level:** Beginner to Intermediate
 
