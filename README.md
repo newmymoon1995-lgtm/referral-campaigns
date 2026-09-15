@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/github/license/newmymoon1995-lgtm/referral-campaigns)
 ![GitHub issues](https://img.shields.io/github/issues/newmymoon1995-lgtm/referral-campaigns)
 
-**🚀 [QUICK START →](QUICK-START.md)** | **🔍 [Search Tool →](search.py)** | **📚 [Guides →](#-featured-categories)** | **🌳 [My ReferTree →](https://www.refertree.io/fazyyy)** | **🎓 [Beginner Guide →](BEGINNER-GUIDE.md)** | **📱 [Social Templates →](SOCIAL-MEDIA-TEMPLATES.md)**
+**🚀 [QUICK START →](QUICK-START.md)** | **🔍 [Search Tool →](search.py)** | **📚 [Guides →](#-featured-categories)** | **🌳 [My ReferTree →](https://www.refertree.io/fazyyy)** | **🎓 [Beginner Guide →](BEGINNER-GUIDE.md)** | **📱 [Social Templates →](SOCIAL-MEDIA-TEMPLATES.md)** | **📊 [Analytics →](ANALYTICS-GUIDE.md)**
 
 Comprehensive guide to legitimate referral programs, bonus offers, and promotional opportunities across fintech, banking, investing, apps, and travel sectors.
 
@@ -46,6 +46,7 @@ Comprehensive guide to legitimate referral programs, bonus offers, and promotion
 - **🎓 Complete beginner's guide** for first-time users
 - **📱 Social media templates** for sharing and promotion
 - **💡 Success stories** and real user examples
+- **📊 Analytics system** for tracking performance and optimal timing
 
 ## 🔍 QUICK SEARCH
 
@@ -123,6 +124,8 @@ Comprehensive guide to legitimate referral programs, bonus offers, and promotion
 3. **Always include proper disclaimers**
 4. **Share success stories** from your experience
 5. **Build community** around legitimate opportunities
+6. **Use [Analytics Guide](ANALYTICS-GUIDE.md)** to track performance
+7. **Follow [Timing Optimization](TIMING-OPTIMIZATION.md)** for best results
 
 ## 📊 Current Highlighted Offers
 
